@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hoda_17100682_FinalProject.Accounts">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Accounts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Admin">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Elec" Collapsed="true">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAIAEAAGAAAAAAAAAAAgAAGAAAARAAAA=</HashCode>
+      <FileName>Elec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Fashion" Collapsed="true">
+    <Position X="13.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAABAAEAAUAAAAAAAAAAAgAAGAAAARAAAA=</HashCode>
+      <FileName>Fashion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Form1" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMhAAACAAAQAAAACAQAQCAUA4AAAAQHQ4AIBAAgA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Form2" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMpAAAKAAARwAAACAAAACAAAYAAAAAGAAAABAAQA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Form3" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMhQQAKAAARgEAACAAABCIAAAAAAAACAAAABAAwA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Form4" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEhAAAKAgAAEAAACgQAACAAAAAAAAACAQAIBAAwg=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Form5" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMhAAACAAARAEAACAAARCAAAAAEAgECAAAABAAgA=</HashCode>
+      <FileName>Form5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Form6" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABEhAAAaAAABKAIECAAARCIAAYAAAQcGAICoFAAAA=</HashCode>
+      <FileName>Form6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Form7" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEhQAACABABAAAACAAAQCAAAQIAAAACAAAYBAAgA=</HashCode>
+      <FileName>Form7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Form8" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEhQAAaAAABAAAACAQARCIAAIAQAAFCAQAIBAAwg=</HashCode>
+      <FileName>Form8.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Form9" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QGAAMhAAAaAAABCAAACAQABCIAAAAAAAECBAAABAAQA=</HashCode>
+      <FileName>Form9.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Home" Collapsed="true">
+    <Position X="15.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAIAEAAGAAAAAAAAAAAgAAGAAAARAAAA=</HashCode>
+      <FileName>Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Order" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAEAAAABCQAA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Product" Collapsed="true">
+    <Position X="13.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAgAAIEIAACAAAAAAAAAAAAAAAACgAAAAg=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Program" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.User">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAEACAAAAAkAAEAAAQEAAIEAAAiAAAAIAQAAQA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.UserControl1" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAQKAAAAAAAACAAAACAAA4AQAAAHAQAABAAAg=</HashCode>
+      <FileName>UserControl1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.UserControl2" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAQKAAAAAAAACAAAACAAA4AQgAQDAQAABAAAg=</HashCode>
+      <FileName>UserControl2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.UserControl3" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAQKAAAAAAAACAAAACAAA4AQgQAHAQAABAAAg=</HashCode>
+      <FileName>UserControl3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Properties.Resources" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hoda_17100682_FinalProject.Properties.Settings" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
